@@ -1,10 +1,12 @@
-def calculate_zeros_hit(filename):
+def parse_input(file_path):
+    with open(file_path, 'r') as f:
+        return f.read().splitlines()
 
+def part1(data):
     pos = 50
     x = 0
 
-    with open(filename, "r") as f:
-        lines = f.readlines()
+    lines = data
 
     for i in lines:
         dir = i[0]
@@ -19,15 +21,12 @@ def calculate_zeros_hit(filename):
 
     return x
 
-
-def calculate_crossings(filename):
-
+def part2(data):
     pos = 50
     x = 0
     last_pos = 50
     
-    with open(filename, "r") as f:
-        lines = f.readlines()
+    lines = data
 
     for i in lines:
         add = 0
@@ -50,5 +49,7 @@ def calculate_crossings(filename):
 
     return x
 
-print(calculate_zeros_hit("1/1.txt"))
-print(calculate_crossings("1/1.txt"))
+if __name__ == "__main__":
+    data = parse_input("input.txt")
+    print("Part 1:", part1(data))
+    print("Part 2:", part2(data))

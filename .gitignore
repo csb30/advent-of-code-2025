@@ -1,0 +1,32 @@
+--- Advent of Code Inputs ---
+
+input.txt
+inputs/
+*.in
+*_input.txt
+
+--- Python ---
+
+pycache/
+*.py[cod]
+*$py.class
+
+--- Virtual Environments ---
+
+venv/
+env/
+.venv/
+
+--- Environment Variables & Secrets ---
+
+.env
+.env.local
+token.txt
+session_cookie.txt
+
+--- IDE & OS ---
+
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
