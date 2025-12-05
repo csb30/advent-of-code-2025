@@ -29,8 +29,9 @@ The repository is organized by day. Each directory contains the solution source 
 | --- | ----------- | ------ | ------ | -------- |
 | 01  | Secret Entrance | ✅ | ✅ | [link](https://github.com/csb30/advent-of-code-2025/tree/main/day01) |
 | 02 | ... | ✅ | ✅ | [link](https://github.com/csb30/advent-of-code-2025/tree/main/day02) |
-| 03 | ... | ⬜ | ⬜ | [link](https://github.com/csb30/advent-of-code-2025/tree/main/day03) |
+| 03 | ... | ✅ | ✅ | [link](https://github.com/csb30/advent-of-code-2025/tree/main/day03) |
 | 04 | ... | ⬜ | ⬜ | [link](https://github.com/csb30/advent-of-code-2025/tree/main/day04) |
+| 05 | ... | ⬜ | ⬜ | [link](https://github.com/csb30/advent-of-code-2025/tree/main/day05) |
 | ... | ... | ... | ... | ... |
 | 12 | ... | ⬜ | ⬜ | [link](https://github.com/csb30/advent-of-code-2025/tree/main/day12) |
 
