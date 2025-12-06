@@ -31,7 +31,7 @@ The repository is organized by day. Each directory contains the solution source 
 | 02 | Gift Shop | ✅ | ✅ | [link](https://github.com/csb30/advent-of-code-2025/tree/main/day02) |
 | 03 | Lobby | ✅ | ✅ | [link](https://github.com/csb30/advent-of-code-2025/tree/main/day03) |
 | 04 | Printing Department | ✅ | ✅ | [link](https://github.com/csb30/advent-of-code-2025/tree/main/day04) |
-| 05 | Cafeteria | ⬜ | ⬜ | [link](https://github.com/csb30/advent-of-code-2025/tree/main/day05) |
+| 05 | Cafeteria | ✅ | ✅ | [link](https://github.com/csb30/advent-of-code-2025/tree/main/day05) |
 | 06 | ... | ⬜ | ⬜ | [link](https://github.com/csb30/advent-of-code-2025/tree/main/day06) |
 | 07 | ... | ⬜ | ⬜ | [link](https://github.com/csb30/advent-of-code-2025/tree/main/day07) |
 | 08 | ... | ⬜ | ⬜ | [link](https://github.com/csb30/advent-of-code-2025/tree/main/day08) |
