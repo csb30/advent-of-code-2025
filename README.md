@@ -32,7 +32,7 @@ The repository is organized by day. Each directory contains the solution source 
 | 03 | Lobby | ✅ | ✅ | [link](https://github.com/csb30/advent-of-code-2025/tree/main/day03) |
 | 04 | Printing Department | ✅ | ✅ | [link](https://github.com/csb30/advent-of-code-2025/tree/main/day04) |
 | 05 | Cafeteria | ✅ | ✅ | [link](https://github.com/csb30/advent-of-code-2025/tree/main/day05) |
-| 06 | ... | ⬜ | ⬜ | [link](https://github.com/csb30/advent-of-code-2025/tree/main/day06) |
+| 06 | Trash Compactor | ✅ | ✅ | [link](https://github.com/csb30/advent-of-code-2025/tree/main/day06) |
 | 07 | ... | ⬜ | ⬜ | [link](https://github.com/csb30/advent-of-code-2025/tree/main/day07) |
 | 08 | ... | ⬜ | ⬜ | [link](https://github.com/csb30/advent-of-code-2025/tree/main/day08) |
 | 09 | ... | ⬜ | ⬜ | [link](https://github.com/csb30/advent-of-code-2025/tree/main/day09) |
